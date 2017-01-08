@@ -1,0 +1,28 @@
+public String[] stringValue(){
+
+	return String[];
+}
+
+
+
+
+public Integer[] integerValue(){
+
+	return Integer[5.2.6.8.7];
+}
+
+public class GetValues{
+
+	private Hashmap<String, Integer> values;
+	
+	public void test(){
+	
+		Hashmap.put(stringValue, integerValue);
+		Stack;
+		LInkedList;
+		HashTree;
+		ArrayList - search something in arraylist
+		Generics
+	}
+	
+}

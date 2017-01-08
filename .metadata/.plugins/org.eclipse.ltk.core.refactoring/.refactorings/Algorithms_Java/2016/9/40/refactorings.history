@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;_SortingAndSeaechingAlgorithms.SelectSort&apos; to &apos;SelectSortObject&apos;&#x0D;&#x0A;- Original project: &apos;Algorithms_Java&apos;&#x0D;&#x0A;- Original element: &apos;_SortingAndSeaechingAlgorithms.SelectSort&apos;&#x0D;&#x0A;- Renamed element: &apos;_SortingAndSeaechingAlgorithms.SelectSortObject&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SelectSort&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;_SortingAndSeaechingAlgorithms{SelectSort.java[SelectSort" matchStrategy="1" name="SelectSortObject" qualified="false" references="true" similarDeclarations="false" stamp="1475145408959" textual="false" version="1.0"/>
+</session>

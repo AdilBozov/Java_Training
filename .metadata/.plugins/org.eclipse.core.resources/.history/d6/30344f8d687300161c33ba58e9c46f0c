@@ -1,0 +1,48 @@
+package _MapJavaCollection;
+
+import java.util.*;
+import org.apache.commons.lang.time.StopWatch;
+
+
+public class LinkedHashMapJava {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		StopWatch sw  = new StopWatch();
+		
+		System.out.println("getEventFilterTreeDate :: Start Time : " + sw.getTime());
+		sw.start();
+				
+				LinkedHashMap<Integer, String> hm = new LinkedHashMap<Integer, String>();
+				
+				hm.put(101, "Amit|");
+				hm.put(102, "Vajay");
+				hm.put(103, "Rahul");
+				
+				for(Map.Entry m:hm.entrySet()){
+					System.out.println(m.getKey()+ " " + m.getValue());
+				}
+				
+				sw.stop();
+				System.out.println("getEventFilterTreeDate :: End Time : " + sw.getTime());
+				System.out.println("getEventFilterTreeDate :: Start Time : " + sw.getTime());
+				sw.start();
+				
+				LinkedHashMap<String, Integer> hmStr = new LinkedHashMap<String, Integer>();
+				
+				hmStr.put("test101", 101);
+				hmStr.put("test102", 102);
+				hmStr.put("test103", 103);
+			
+				
+				for(Map.Entry m:hmStr.entrySet()){
+					System.out.println(m.getKey()+ " " + m.getValue());
+				}
+				System.out.println("getEventFilterTreeDate :: End Time : " + sw.getTime());
+				sw.stop();
+	}
+	
+}
+

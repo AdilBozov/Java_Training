@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="8_UploadingFiles"/>
+<aop-project name="5_DetectingADevice"/>
+<aop-project name="postMethod"/>
+<aop-project name="testSpringHello"/>
+<aop-project name="uploadFile"/>
+<aop-project name="7_HandlingFormSubmission"/>
+<aop-project name="testSpringThymekeaf"/>
+<aop-project name="4_AccessingRelationalDataUsingJDBCWithSpring"/>
+<aop-project name="_1_RESTfulWebService"/>
+<aop-project name="gs-consuming-rest-complete"/>
+<aop-project name="gs-consuming-rest-initial"/>
+<aop-project name="9_AuthenticatingAUserWithLDAP"/>
+<aop-project name="-2_ConsumingARESTfulWebService"/>
+<aop-project name="thirdSpringAppTEST"/>
+<aop-project name="3_SchedulingTasks"/>
+</aop-reference-model>

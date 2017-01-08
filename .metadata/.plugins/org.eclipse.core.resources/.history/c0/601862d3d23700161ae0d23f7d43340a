@@ -1,0 +1,15 @@
+package com.java.oop;
+
+public abstract class AbstractClass {
+	
+	
+	//Abstraction - you don't know how the abstraction are working but you can use it
+	
+	public abstract void callMom();
+	
+	public void callGosho(){
+		System.out.println("Calling gosho");
+	}
+	
+
+}

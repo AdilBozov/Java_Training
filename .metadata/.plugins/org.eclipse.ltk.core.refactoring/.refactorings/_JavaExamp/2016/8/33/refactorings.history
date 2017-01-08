@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;_20_30_LesonJavaSwing.JavaSwingLayout&apos; to &apos;JavaSwingLayout_28&apos;&#x0D;&#x0A;- Original project: &apos;_JavaExamp&apos;&#x0D;&#x0A;- Original element: &apos;_20_30_LesonJavaSwing.JavaSwingLayout&apos;&#x0D;&#x0A;- Renamed element: &apos;_20_30_LesonJavaSwing.JavaSwingLayout_28&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;JavaSwingLayout&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;_20_30_LesonJavaSwing{JavaSwingLayout.java[JavaSwingLayout" matchStrategy="1" name="JavaSwingLayout_28" qualified="false" references="true" similarDeclarations="false" stamp="1470732840518" textual="false" version="1.0"/>
+</session>

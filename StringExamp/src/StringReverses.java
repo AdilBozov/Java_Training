@@ -1,0 +1,24 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class StringReverses {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
+		System.out.println("Enter word");
+		String word = input.readLine();
+		
+		System.out.println(word);
+		// StringBuffer ?????????
+		//StringBuilder() ???????
+		String reverse = new StringBuffer(word).reverse().toString();
+		
+		System.out.println(word);
+		System.out.println(reverse);
+
+	}
+
+}

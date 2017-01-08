@@ -1,0 +1,10 @@
+package _JavaCollection.LinkedList;
+
+public class HashSetCollectionJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

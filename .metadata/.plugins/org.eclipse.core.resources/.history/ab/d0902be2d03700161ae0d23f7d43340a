@@ -1,0 +1,59 @@
+package com.java.oop;
+
+
+/***
+ * 
+ * @author Adil Bozov
+ *
+ There are many OOP (Object Oriented Programing) languages  - C++, C#, Java 
+ In oop languages there are four main principles:
+  
+ 1. Capsulation
+ 2. Abstraction
+ 3. Inheritance
+ 4. Polymorphism
+ 
+ */
+
+
+public class JavaOOPPrinciples {
+	
+	//Class  - class is something like  pattern(shablon), you can use pattern to create new object; main idea of class is to safe
+	// some rewrite of code
+	
+	
+	//1. Capsulation - Encapsulation
+	
+	// Each Class has something called fields
+	
+	
+	public static  void createCar(){
+		
+		
+		Car mycar = new Car();
+		Car tsvetanCar = new Car();
+		
+		String [] colours = {"Black, Yellow, Blue, Red"}; 
+		
+		mycar.setWindows(colours);
+	
+		String [] test = mycar.getWindows();
+		for (int i = 0; i < colours.length; i++) {
+			
+			System.out.println(test[i]);
+			
+				
+		}
+		
+		
+		
+		System.out.println( "This is my car window:" + mycar.getWindows());
+		
+		//System.out.println("This is tsvetan car window:" + tsvetanCar.getWindows());
+	}
+	
+	public static void main(String[] args){
+		createCar();
+	}
+
+}

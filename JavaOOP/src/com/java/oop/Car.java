@@ -1,0 +1,62 @@
+package com.java.oop;
+
+public class Car {
+	
+	
+	//encapsulation
+	
+	private String myPrivateVariable;
+	protected String myProtectedVariable;
+	public String myPublicVarialbe;
+	
+	
+
+	//fileds
+	
+	private String tires;
+	private String[] windows;
+	private String colour;
+	/**
+	 * @return the tires
+	 */
+	public String getTires() {
+		return tires;
+	}
+	/**
+	 * @param tires the tires to set
+	 */
+	public void setTires(String tires) {
+		this.tires = tires;
+	}
+	/**
+	 * @return the windows
+	 */
+	public String[] getWindows() {
+		return windows;
+	}
+	/**
+	 * @param windows the windows to set
+	 */
+	public void setWindows(String[] windows) {
+		this.windows = windows;
+	}
+	/**
+	 * @return the colour
+	 */
+	public String getColour() {
+		return colour;
+	}
+	/**
+	 * @param colour the colour to set
+	 */
+	public void setColour(String colour) {
+		this.colour = colour;
+	}
+	
+	//properties 
+	
+	
+	
+	
+	
+}

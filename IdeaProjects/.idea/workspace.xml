@@ -1,0 +1,1507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/collections/LargesSequenceOfEqualString.java" line="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e994d8a2-e288-451c-8d09-528fba7409e8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../imdb_stream3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/tasks/SerarchNumbers.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/38/90dab64f886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/39/30f70eff876e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/46/80876d10886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5f/b0be0dff876e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/65/b0d4b422896e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/67/f0f5a562886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7f/108919879c6e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/97/007bb54f886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b3/306bb5e8886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b4/c05eacc3886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bd/10c709ff876e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c/50cdb34f886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d6/1013b84f886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dd/60408532886e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ee/80159d148a6e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f6/d00dd5099c6e00161e64dd2887894f1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/-2_ConsumingARESTfulWebService/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/3_SchedulingTasks/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/4_AccessingRelationalDataUsingJDBCWithSpring/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/5_DetectingADevice/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/6_BuildingJavaProjectsWithMaven/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/7_HandlingFormSubmission/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/8_UploadingFiles/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.indexes/e4/92/db/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.indexes/e4/b9/22/d2/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.indexes/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/JBTSpringMVC/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/_1_RESTfulWebService/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/gs-consuming-rest-complete/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/gs-consuming-rest-initial/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/postMethod/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/testSpringHello/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/testSpringThymekeaf/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/thirdSpringAppTEST/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/uploadFile/org.eclipse.jdt.core/state.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.root/15.tree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/1075794691.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/1644702904.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2019903893.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2133282975.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2637943071.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2800558102.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2809250744.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/2855899100.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/3407430047.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/3417200662.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/351221734.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/414978335.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/4184201189.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/471236001.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/618723895.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/781808.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/808374113.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/985286902.index" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_a_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_b.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_b_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_c.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_c_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_d.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_d_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_e.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_e_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_f.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_g" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_8w.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_8x.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_8y.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_8z.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_90.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_91.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_92.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_93.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_94.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/_96.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/segments_8b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2s.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2s_1.del" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2t.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_2u.cfs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2m" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/IdeaProjects/executorservice/ThreadPoolMain.class" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/executorservice/ThreadPoolMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/5_DetectingADevice/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/5_DetectingADevice/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/6_BuildingJavaProjectsWithMaven/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/6_BuildingJavaProjectsWithMaven/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/8_UploadingFiles/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/8_UploadingFiles/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/9_AuthenticatingAUserWithLDAP/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/_1_RESTfulWebService/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/_1_RESTfulWebService/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/uploadFile/.markers" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/uploadFile/.markers" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/segments.gen" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/7edc5a50bbb83407431e0fffe2319a81/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springframework.ide.eclipse.beans.core.metadata/metadata/.state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/hello/Application.class" afterPath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/hello/Application.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/hello/Customer.class" afterPath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/hello/Customer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/executorservice/ThreadPoolMain.java" afterPath="$PROJECT_DIR$/src/executorservice/ThreadPoolMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/-2_ConsumingARESTfulWebService/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/-2_ConsumingARESTfulWebService/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/-2_ConsumingARESTfulWebService/target/classes/META-INF/maven/org.springframework/gs-consuming-rest/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/-2_ConsumingARESTfulWebService/target/classes/META-INF/maven/org.springframework/gs-consuming-rest/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.log" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.blogs/-549550714.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/.plugins/org.springsource.ide.eclipse.dashboard.ui/feeds/dashboard.feeds.update/623127801.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/.metadata/version.ini" afterPath="$PROJECT_DIR$/../spring_workspace/.metadata/version.ini" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/3_SchedulingTasks/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/3_SchedulingTasks/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/3_SchedulingTasks/target/classes/META-INF/maven/org.springframework/gs-scheduling-tasks/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/3_SchedulingTasks/target/classes/META-INF/maven/org.springframework/gs-scheduling-tasks/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/META-INF/maven/org.springframework/gs-relational-data-access/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/4_AccessingRelationalDataUsingJDBCWithSpring/target/classes/META-INF/maven/org.springframework/gs-relational-data-access/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/5_DetectingADevice/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/5_DetectingADevice/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/5_DetectingADevice/target/classes/META-INF/maven/org.springframework/gs-device-detection/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/5_DetectingADevice/target/classes/META-INF/maven/org.springframework/gs-device-detection/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/6_BuildingJavaProjectsWithMaven/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/6_BuildingJavaProjectsWithMaven/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/6_BuildingJavaProjectsWithMaven/target/classes/META-INF/maven/org.springframework/gs-maven/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/6_BuildingJavaProjectsWithMaven/target/classes/META-INF/maven/org.springframework/gs-maven/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/7_HandlingFormSubmission/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/7_HandlingFormSubmission/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/7_HandlingFormSubmission/target/classes/META-INF/maven/org.springframework/gs-handling-form-submission/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/7_HandlingFormSubmission/target/classes/META-INF/maven/org.springframework/gs-handling-form-submission/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/8_UploadingFiles/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/8_UploadingFiles/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/8_UploadingFiles/target/classes/META-INF/maven/org.springframework/gs-uploading-files/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/8_UploadingFiles/target/classes/META-INF/maven/org.springframework/gs-uploading-files/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/9_AuthenticatingAUserWithLDAP/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/9_AuthenticatingAUserWithLDAP/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/9_AuthenticatingAUserWithLDAP/target/classes/META-INF/maven/org.springframework/gs-authenticating-ldap/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/9_AuthenticatingAUserWithLDAP/target/classes/META-INF/maven/org.springframework/gs-authenticating-ldap/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/_1_RESTfulWebService/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/_1_RESTfulWebService/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/_1_RESTfulWebService/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/_1_RESTfulWebService/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-complete/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-complete/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-complete/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-complete/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-initial/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-initial/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-initial/target/classes/META-INF/maven/org.springframework/gs-consuming-rest/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/gs-consuming-rest-initial/target/classes/META-INF/maven/org.springframework/gs-consuming-rest/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/postMethod/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/postMethod/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/postMethod/target/classes/META-INF/maven/org.springframework/gs-handling-form-submission/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/postMethod/target/classes/META-INF/maven/org.springframework/gs-handling-form-submission/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/testSpringHello/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/testSpringHello/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/testSpringHello/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/testSpringHello/target/classes/META-INF/maven/org.springframework/gs-rest-service/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/testSpringThymekeaf/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/testSpringThymekeaf/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/testSpringThymekeaf/target/classes/META-INF/maven/com.example/demo/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/testSpringThymekeaf/target/classes/META-INF/maven/com.example/demo/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/thirdSpringAppTEST/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/thirdSpringAppTEST/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/thirdSpringAppTEST/target/classes/META-INF/maven/co.edureka.spring/thirdSpringAppTEST/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/thirdSpringAppTEST/target/classes/META-INF/maven/co.edureka.spring/thirdSpringAppTEST/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/uploadFile/target/classes/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/../spring_workspace/uploadFile/target/classes/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../spring_workspace/uploadFile/target/classes/META-INF/maven/com.example/demo/pom.properties" afterPath="$PROJECT_DIR$/../spring_workspace/uploadFile/target/classes/META-INF/maven/com.example/demo/pom.properties" />
+    </list>
+    <ignored path="IdeaProjects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="IdeaProjects">
+      <favorite_root url="file://$PROJECT_DIR$" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/src/com" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/src/com/company" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/src/com/company/StreamJavaExam.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/.idea" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/copyright" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/compiler.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/uiDesigner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/description.html" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/project-template.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          <favorite_root url="file://$PROJECT_DIR$/.idea/codeStyleSettings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/DemoStream" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+          <favorite_root url="file://$PROJECT_DIR$/DemoStream/out" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example01" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example01/BinaryStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example01/BinaryStreams/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example02" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example02/CharacterStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example02/CharacterStreams/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example03" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example03/BufferedIO" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example03/BufferedIO/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example04" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example04/DataStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example04/DataStreams/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example05" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example05/StoringObjects" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example05/StoringObjects/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example06" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example06/StoringCustomObjects" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example06/StoringCustomObjects/Main.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                    <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/Example06/StoringCustomObjects/Person.class" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  </favorite_root>
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/data_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/data_streams/data.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/binary_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/binary_streams/java.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/object_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/object_streams/object.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/object_streams/people.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/character_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                  <favorite_root url="file://$PROJECT_DIR$/DemoStream/out/production/StreamExample/character_streams/input" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                </favorite_root>
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/DemoStream/src" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example01" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example01/BinaryStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example01/BinaryStreams/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example02" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example02/CharacterStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example02/CharacterStreams/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example03" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example03/BufferedIO" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example03/BufferedIO/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example04" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example04/DataStreams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example04/DataStreams/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example05" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example05/StoringObjects" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example05/StoringObjects/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example06" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example06/StoringCustomObjects" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example06/StoringCustomObjects/Main.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+                <favorite_root url="file://$PROJECT_DIR$/DemoStream/src/Example06/StoringCustomObjects/Person.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              </favorite_root>
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/.name" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/scopes" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/scopes/scope_settings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/vcs.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/misc.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/copyright" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/copyright/profiles_settings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/modules.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/compiler.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/encodings.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/workspace.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/.idea/uiDesigner.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/data_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/data_streams/data.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/binary_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/binary_streams/java.jpg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/object_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/object_streams/object.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/object_streams/people.save" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+            <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/character_streams" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+              <favorite_root url="file://$PROJECT_DIR$/DemoStream/resources/character_streams/input" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+            </favorite_root>
+          </favorite_root>
+          <favorite_root url="file://$PROJECT_DIR$/DemoStream/StreamExample.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        </favorite_root>
+        <favorite_root url="file://$PROJECT_DIR$/IdeaProjects.iml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+      <favorite_root url="com.com.streamAPI.java.FilterArraysString" module="IdeaProjects" type="class" klass="com.intellij.ide.favoritesTreeView.smartPointerPsiNodes.ClassSmartPointerNode" />
+      <favorite_root url="file://$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/a" module="IdeaProjects" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/b/TwitterService.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/c/TwitterWrapper.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/b/NotificationService.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/d_main/DependencyInjectionDemo.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RunMainCLass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/runnable/RunMainCLass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadPoolMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/executorservice/ThreadPoolMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SerarchNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/tasks/SerarchNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadTestClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/executorservice/ThreadTestClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JavaThreadsClass.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bg/JavaThreadsClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RunnableInJava.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/runnable/RunnableInJava.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/generics/genericMethods/GenericMethods.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/traveler/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/traveler/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/traveler/Opel.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/traveler/Traveler.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/Refillable.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/DieselClass.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/DieselCar.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/LpgCar.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/GasStation.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/CityGasStation.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/PetrolCar.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/AdapterPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapter/AdapterGasStation.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/adapterPatern/GasStation.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/NotificationService.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/DependencyInjectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/TwitterService.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/Provider.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/GoogleProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/InjectionModule.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/TwitterWrapper.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/a/Provider.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/a/GoogleProvider.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/b/TwitterService.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/b/NotificationService.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/c/InjectionModule.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/d_main/DependencyInjectionDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjection/c/TwitterWrapper.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/dependenciInjectionPatern/c/TwitterWrapper.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/LoanRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/Clerk.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/LocalManager.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/ChainOfResponsibilityDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/eventAndCommunication/chainOfResponsibilities/BankEmployee.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Observabple.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Observer.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Server.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Observable.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/User.java" />
+        <option value="$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/ObserverPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/bg/TestThreadClass.java" />
+        <option value="$PROJECT_DIR$/src/bg/ThreadTestClass2.java" />
+        <option value="$PROJECT_DIR$/src/runnable/RunnableInJava.java" />
+        <option value="$PROJECT_DIR$/src/bg/JavaThreadsClass.java" />
+        <option value="$PROJECT_DIR$/src/runnable/RunMainCLass.java" />
+        <option value="$PROJECT_DIR$/src/executorservice/ThreadTestClass.java" />
+        <option value="$PROJECT_DIR$/src/executorservice/ThreadPoolMain.java" />
+        <option value="$PROJECT_DIR$/src/tasks/SerarchNumbers.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IdeaProjects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bg" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="D:/Downloads/aopalliance-alpha1.jar!/" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.oop.demo4" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.com.streamAPI.java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SerarchNumbers">
+    <configuration default="false" name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.event_and_communication._5_observer_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.event_and_communication._5_observer_pattern.ObserverPatternDemo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="JavaThreadsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="bg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="bg.JavaThreadsClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RunMainCLass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="runnable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="runnable.RunMainCLass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ThreadPoolMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="executorservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="executorservice.ThreadPoolMain" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SerarchNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="tasks.SerarchNumbers" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="IdeaProjects" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.ObserverPatternDemo" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JavaThreadsClass" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RunMainCLass" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ThreadPoolMain" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SerarchNumbers" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SerarchNumbers" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ThreadPoolMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RunMainCLass" />
+        <item index="3" class="java.lang.String" itemvalue="Application.JavaThreadsClass" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ObserverPatternDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e994d8a2-e288-451c-8d09-528fba7409e8" name="Default" comment="" />
+      <created>1476006598076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476006598076</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26022914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16717096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29787233" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32698768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32733223" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294621" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31096563" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20726173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30011198" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/collections/LargesSequenceOfEqualString.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/collections/LongesIncreasingSequence.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/runnable/RunMainCLass.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/oop/demo5/interfaces/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oop/demo5/models/Rebel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oop/demo5/models/Citizen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/oop/demo5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/array_stacks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/array_stacks/Container.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/array_stacks/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/employee/Employe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/employee/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="43" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/generic_methods/GenericMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/generics/generic_methods/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/guice-4.1.0.jar!/com/google/inject/AbstractModule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/a/GoogleProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/a/Provider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/b/TwitterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/b/NotificationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/c/InjectionModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_4_traveler/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_4_traveler/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_4_traveler/Opel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_4_traveler/Traveler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/CityGasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/GasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/AdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/AdapterGasStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/Refillable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/PetrolCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/LpgCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="51" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_1_adapter_pattern/DieselCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/d_main/DependencyInjectionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_3_dependenciInjection_pattern/c/TwitterWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/ChainOfResponsibilityDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/BankEmployee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" column="32" selection-start-line="9" selection-start-column="3" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/Clerk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/LocalManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_2_chain_of_responsibilities_pattern/LoanRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big-thingy.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/ObserverPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="85" selection-start-line="9" selection-start-column="85" selection-end-line="9" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/event_and_communication/_5_observer_pattern/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/TestThreadClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="32" selection-start-line="10" selection-start-column="13" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/ThreadTestClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bg/JavaThreadsClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runnable/RunnableInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/runnable/RunMainCLass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executorservice/ThreadTestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/executorservice/ThreadPoolMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tasks/SerarchNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="30" column="55" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>IdeaProjects</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

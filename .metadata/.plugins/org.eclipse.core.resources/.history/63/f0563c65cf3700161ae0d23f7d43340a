@@ -1,0 +1,14 @@
+package com.java.oop;
+
+public class Car {
+
+	//fileds
+	
+	private String tires;
+	private String windows;
+	private String colour;
+	
+	
+	
+	
+}

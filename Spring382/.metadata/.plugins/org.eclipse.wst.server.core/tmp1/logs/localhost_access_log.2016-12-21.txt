@@ -1,0 +1,2 @@
+127.0.0.1 - - [21/Dec/2016:12:32:39 +0200] "GET / HTTP/1.1" 404 986
+0:0:0:0:0:0:0:1 - - [21/Dec/2016:12:32:42 +0200] "GET /spring/WEB-INF/classes/com/journaldev/spring/main/MyMainClass.java HTTP/1.1" 404 984

@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleaf-spring3
+Implementation-Version: 3.0.2-SNAPSHOT
+Built-By: Adil Bozov
+Specification-Vendor: The THYMELEAF team
+Specification-Title: thymeleaf-spring3
+Implementation-Vendor-Id: org.thymeleaf
+Implementation-Vendor: The THYMELEAF team
+X-Compile-Target-JDK: 1.6
+X-Compile-Source-JDK: 1.6
+Build-Jdk: 1.8.0_101
+Specification-Version: 3.0.2-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+

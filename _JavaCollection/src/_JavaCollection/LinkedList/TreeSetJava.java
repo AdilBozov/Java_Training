@@ -1,0 +1,38 @@
+package _JavaCollection.LinkedList;
+
+import java.util.*;
+
+public class TreeSetJava {
+
+	public static void main(String[] args) {
+
+		
+		TreeSet<String> al = new TreeSet<String>();
+		
+		  al.add("Ravi");  
+		  al.add("Vijay");  
+		  al.add("Ravi");  
+		  al.add("Ajay");
+		  
+		  Iterator<String> itr = al.iterator();  
+		  while(itr.hasNext()){  
+		   System.out.println(itr.next());  
+		  }
+		  
+		  
+		  ///////////////////////////////
+		  TreeSet<Integer> al2 = new TreeSet<Integer>();
+			
+		  al2.add(1);  
+		  al2.add(3);  
+		  al2.add(2);  
+		  al2.add(4);
+		  
+		  Iterator<Integer> itr2 = al2.iterator();  
+		  while(itr2.hasNext()){  
+		   System.out.println(itr2.next());  
+		  }  
+
+	}
+
+}

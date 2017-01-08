@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;postMethod/src/main/resources/taplates&apos; to &apos;templates&apos;" description="Rename resource &apos;taplates&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/taplates" name="templates" stamp="1470942744141" updateReferences="true"/>
+</session>

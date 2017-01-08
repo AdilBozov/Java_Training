@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Beans.xml&apos; to &apos;HelloSpring/src/tutorial&apos;&#x0D;&#x0A;- Original project: &apos;HelloSpring&apos;&#x0D;&#x0A;- Destination element: &apos;HelloSpring/src/tutorial&apos;&#x0D;&#x0A;- Original element: &apos;Beans.xml&apos;" description="Copy file" destination="/src&lt;tutorial" element1="src/Beans.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1481806268805" units="0" version="1.0"/>
+</session>
